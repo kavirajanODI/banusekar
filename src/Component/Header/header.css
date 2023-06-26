@@ -1,0 +1,16 @@
+header{position:fixed;top:0;left:0;width:100%;padding:30px 70px;z-index: 9999;-webkit-transition: all 0.5s ease-in-out;-o-transition: all 0.5s ease-in-out;transition: all 0.5s ease-in-out;}
+.HeadContainer{display: -webkit-box;display: -ms-flexbox;display: flex;-webkit-box-align: center;-ms-flex-align: center;align-items: center;}
+.headlogo{display: block;}
+.headlogo a{display: block;}
+.headlogo a:focus-visible{outline: unset;}
+.headlogo a img{height: 50px;-webkit-transition: all 0.5s ease-in-out;-o-transition: all 0.5s ease-in-out;transition: all 0.5s ease-in-out;}
+nav.nav{margin-left: auto;}
+ul.BSmainMenu{margin: 0;padding: 0;list-style: none;display: -webkit-box;display: -ms-flexbox;display: flex;height: 50px;}
+ul.BSmainMenu li{margin-left: 45px;display: -webkit-box;display: -ms-flexbox;display: flex;-webkit-box-align: center;-ms-flex-align: center;align-items: center;}
+ul.BSmainMenu li a{color: #fff;text-transform: uppercase;font-weight: 500;text-decoration: none;}
+ul.BSmainMenu li a:hover{color: #eb9500}
+
+.scroll-up header {-webkit-transform: translate3d(0, 0%, 0);-ms-transform: translate3d(0, 0%, 0);transform: translate3d(0, 0%, 0);}
+.scroll-down header {-webkit-transform: translate3d(0, -100%, 0);transform: translate3d(0, -100%, 0);}
+.sscroll-animi header {background:#303030;box-shadow: 0 0 10px 1px rgb(0 0 0 / 7%);padding: 15px 70px;}
+.sscroll-animi .headlogo a img {height: 30px;}

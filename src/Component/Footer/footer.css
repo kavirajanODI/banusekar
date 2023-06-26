@@ -1,0 +1,37 @@
+.EnquireNSec{position: relative;}
+.EnquireNSec:after{content:"";position:absolute;padding-right: 31%;height:100%;left:21%;top:0;background:url(../../assets/images/fbanusekarImg.png) no-repeat center bottom;background-size:100%;z-index: 9;}
+.ENSBgImg{position: relative;}
+.ENSBgImg img{display: block;}
+.EnquireNSec .textBlock{position: absolute;z-index: 9;}
+.EnquireNSec .textBlock p.absimg{display: block;}
+.EnquireNSec .textBlock p.absimg img{height:145px;}
+.EnquireNSec .textBlock p{margin: 0;color: #ffffff;}
+.EnquireNSec .textBlock p.enquirenpara{display: -webkit-box;display: -ms-flexbox;display: flex;margin-top: 30px;}
+.EnquireNSec .textBlock p.enquirenpara a.enquirenLink{display: block;background: #ffffff;color: #1d1f22;line-height: 40px;padding: 0 20px;border-radius: 30px;border: 2px solid #fff;font-size: 14px;font-weight: 500;text-transform: uppercase;letter-spacing: 3px;}
+.EnquireNSec .textBlock p.enquirenpara a.enquirenLink:hover{background: #1d1f22;color: #ffffff;}
+.EnquireNSec .ENTbright{right:11.5%;top: 35%;z-index: 99;}
+.EnquireNSec .ENTbleft{top: 20%;left: 15%;}
+.EnquireNSec .textBlock.ENTbright p.absimg{margin-left: -15%;margin-bottom: 15px;}
+
+.MfooterSec{background: #303030;padding: 80px 0;}
+.MfooterSec .row{}
+.MfooterSec .row .col.mfsCol-One{flex: 0 0 35%;}
+.MfooterSec .row .col.mfsCol-Two{flex: 0 0 19%;}
+.MfooterSec .row .col.mfsCol-Three{flex: 0 0 19%;}
+.MfooterSec .row .col.mfsCol-Four{flex: 0 0 27%;}
+.MfooterSec .textBlock h4 {margin: 0 0 15px;color: #d5d5d5;font-size: 19px;}
+.MfooterSec .textBlock h5 {margin: 0 0 15px;color: #d5d5d5;font-size: 19px;}
+.MfooterSec .textBlock p{color:#a8a8a8;font-size:14px;}
+.MfooterSec .textBlock p.fcright{margin: 0;margin-bottom: 30px;}
+.MfooterSec .textBlock ul {margin:0;padding:0;list-style:none;}
+.MfooterSec .textBlock ul li{font-size:14px;color: #a8a8a8!important;}
+ul.fBSmMenu li a{color: #a8a8a8;font-size: 14px;display: block;line-height: 26px;}
+ul.fBSmMenu li a:hover{color: #ffffff;}
+.MfooterSec .textBlock ul.smedialink{display: -webkit-box;display: -ms-flexbox;display: flex;}
+.MfooterSec .textBlock ul.smedialink li{margin-right: 10px;}
+.MfooterSec .textBlock ul.smedialink li a{width: 35px;display: block;height: 35px;line-height: 35px;text-align: center;border: 1px solid #a8a8a8;color: #a8a8a8;border-radius: 50%;}
+.MfooterSec .textBlock ul.smedialink li a:hover{color:#ffffff;border-color: #ffffff;}
+.MfooterSec .beopenCol{margin-top: 20px;}
+.MfooterSec .beopenCol p a {padding: 3px 30px 3px 0px;display: inline-block;margin: 0 0 0 0px;position: relative;color: #a8a8a8;}
+.MfooterSec .beopenCol p a:hover{color: #ffffff;}
+.MfooterSec .beopenCol p a:before {content: "";position: absolute;width: 22px;height: 22px;top: 50%;right: 0;background: url(../../assets/images/open-dd-logo.webp) no-repeat left center;background-size: 100%;-webkit-transform: translate(0px,-50%);-ms-transform: translate(0px,-50%);transform: translate(0px,-50%);border-radius: 50%;border: 1px solid rgb(255 255 255 / 36%);}
